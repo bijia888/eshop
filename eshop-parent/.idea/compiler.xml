@@ -6,12 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="eshop-api" />
         <module name="eshop-dao" />
+        <module name="eshop-service" />
+        <module name="eshop-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="eshop-dao" target="1.7" />
+      <module name="eshop-api" target="1.8" />
+      <module name="eshop-dao" target="1.8" />
       <module name="eshop-parent" target="1.7" />
+      <module name="eshop-service" target="1.8" />
+      <module name="eshop-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

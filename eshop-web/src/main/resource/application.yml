@@ -1,0 +1,11 @@
+
+#port
+#server:
+#  port: 9999
+
+##数据源
+#datasource:
+#    driverClassName: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/springboot?useUnicode=true&characterEncoding=utf8
+#    username: root
+#    password: 1234

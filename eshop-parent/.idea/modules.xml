@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../eshop-api/eshop-api.iml" filepath="$PROJECT_DIR$/../eshop-api/eshop-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/../eshop-dao/eshop-dao.iml" filepath="$PROJECT_DIR$/../eshop-dao/eshop-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/../eshop-entity/eshop-entity.iml" filepath="$PROJECT_DIR$/../eshop-entity/eshop-entity.iml" />
       <module fileurl="file://$PROJECT_DIR$/eshop-parent.iml" filepath="$PROJECT_DIR$/eshop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eshop-service/eshop-service.iml" filepath="$PROJECT_DIR$/../eshop-service/eshop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eshop-web/eshop-web.iml" filepath="$PROJECT_DIR$/../eshop-web/eshop-web.iml" />
     </modules>
   </component>
 </project>
