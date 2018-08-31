@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/../eshop-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../eshop-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../eshop-entity" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../eshop-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../eshop-web" charset="UTF-8" />

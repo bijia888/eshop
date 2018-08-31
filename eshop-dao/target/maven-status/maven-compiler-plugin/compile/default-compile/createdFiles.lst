@@ -1,2 +1,2 @@
 com\eshop\dao\UserDao.class
-com\eshop\dao\impl\UserDaoImpl.class
+com\eshop\dao\DataSourceConfig.class

@@ -7,6 +7,40 @@
           <element id="module-output" name="eshop-web" />
         </element>
         <element id="directory" name="lib">
+          <element id="archive" name="eshop-entity-1.0.jar">
+            <element id="module-output" name="eshop-entity" />
+          </element>
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:2.0.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-aop:2.0.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.13" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:2.0.0.RELEASE" />
+          <element id="library" level="project" name="Maven: com.zaxxer:HikariCP:2.7.8" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.0.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-core:5.2.14.Final" />
+          <element id="library" level="project" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.22.0-GA" />
+          <element id="library" level="project" name="Maven: antlr:antlr:2.7.7" />
+          <element id="library" level="project" name="Maven: org.jboss:jandex:2.0.3.Final" />
+          <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Maven: org.hibernate.common:hibernate-commons-annotations:5.0.1.Final" />
+          <element id="library" level="project" name="Maven: javax.transaction:javax.transaction-api:1.2" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-jpa:2.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:2.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-orm:5.0.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.0.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aspects:5.0.4.RELEASE" />
+          <element id="archive" name="eshop-service-1.0.jar">
+            <element id="module-output" name="eshop-service" />
+          </element>
+          <element id="archive" name="eshop-api-1.0.jar">
+            <element id="module-output" name="eshop-api" />
+          </element>
+          <element id="archive" name="eshop-dao-1.0.jar">
+            <element id="module-output" name="eshop-dao" />
+          </element>
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.45" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.18" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:2.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:2.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:2.0.0.RELEASE" />
@@ -14,7 +48,6 @@
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.3" />
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
-          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
           <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.10.0" />
           <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.10.0" />
           <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.25" />

@@ -1,2 +1,3 @@
-com\eshop\entity\service\impl\api\Service\IndexController.class
 Application.class
+com\eshop\web\controller\UserController.class
+com\eshop\web\controller\IndexController.class

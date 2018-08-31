@@ -4,5 +4,5 @@ import com.eshop.entity.User;
 
 public interface UserService {
 
-    public User findByUserId();
+    public User findByUserId(Long id);
 }
