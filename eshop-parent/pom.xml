@@ -20,7 +20,7 @@
   <modules>
 
     <module>../eshop-entity</module>
-      <module>../eshop-dao</module>
+    <module>../eshop-dao</module>
     <module>../eshop-api</module>
     <module>../eshop-service</module>
     <module>../eshop-web</module>

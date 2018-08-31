@@ -7,6 +7,9 @@
           <element id="module-output" name="eshop-web" />
         </element>
         <element id="directory" name="lib">
+          <element id="archive" name="eshop-web-1.0.jar">
+            <element id="module-output" name="eshop-web" />
+          </element>
           <element id="archive" name="eshop-entity-1.0.jar">
             <element id="module-output" name="eshop-entity" />
           </element>
