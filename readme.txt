@@ -1,6 +1,6 @@
 
 电商项目：
-1 使用springboot、dubbo/spirngCloud、redis、activemq、solr等主流框架/中间件。
+1 使用springboot、dubbo/springCloud、redis、activemq、solr等主流框架/中间件。
 2 采用分布式，集群，负载均衡，搜索，缓存等主流技术。
 3 具体难点模块有：
 	(1)多系统单点登录
