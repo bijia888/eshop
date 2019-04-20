@@ -1,0 +1,16 @@
+#数据源
+datasource:
+    url: jdbc:mysql://192.168.198.131:3306/eshop?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: 1234
+    driverClassName: com.mysql.jdbc.Driver
+
+
+
+logging:
+  level:
+    root: INFO
+
+server:
+  port: 9301
+
