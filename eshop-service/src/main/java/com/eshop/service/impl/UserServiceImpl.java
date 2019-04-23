@@ -6,6 +6,10 @@ import com.eshop.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 @Service
 public class UserServiceImpl implements UserService {
 
@@ -19,5 +23,12 @@ public class UserServiceImpl implements UserService {
             return null;
         }
         return user;
+    }
+
+    @Override
+    public List<User> findAll() {
+        List<User> list = new ArrayList<User>();
+        userDao.findAll().forEach(single -> list.add(single) );
+        return list;
     }
 }

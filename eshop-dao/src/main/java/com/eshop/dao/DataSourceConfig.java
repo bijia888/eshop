@@ -29,10 +29,6 @@ public class DataSourceConfig {
         dataSource.setUrl(url);
         dataSource.setUsername(user);
         dataSource.setPassword(password);
-//        dataSource.setDriverClassName("com.mysql.jdbc.Driver");
-//        dataSource.setUrl("jdbc:mysql://localhost:3306/eshop?useUnicode=true&characterEncoding=utf8");
-//        dataSource.setUsername("root");
-//        dataSource.setPassword("1234");
         return dataSource;
     }
 }

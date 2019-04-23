@@ -13,3 +13,6 @@
 	删除掉target
 	修改配置文件路径resource-->resources 解决不能读取配置文件的问题
 	*下周开始填代码
+
+2019.4.23
+    实现分布式dubbo+zk
